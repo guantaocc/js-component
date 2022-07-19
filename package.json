@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/guantaocc/js-component#readme",
   "dependencies": {
-    "async-validator": "^4.2.5"
+    "ant-design-vue": "^3.2.10",
+    "async-validator": "^4.2.5",
+    "axios": "^0.27.2"
   }
 }
